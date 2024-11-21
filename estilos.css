@@ -2,7 +2,11 @@
     margin:100px;
     }
     body {
-    background:skyblue;
-    <h2>Nombre Apellido</h2>
+<<<<<<< HEAD
+    background: yellow;
+=======
+    background:green;
+    <h2>Matias Pastrana</h2>
+>>>>>>> TESTING
     }
     
