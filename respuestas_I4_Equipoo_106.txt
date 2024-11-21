@@ -5,6 +5,7 @@ Candela Corral(GAMMA)
 A- ¿Qué color de fondo tiene su página en el TESTING ?
 AZUl
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 AMARILLO
@@ -18,14 +19,24 @@ ALFA
 E- ¿Algún integrante tuvo problemas al hacer el push?
 BETA solo tuvo problemas
 =======
+=======
+
+>>>>>>> f6f6935 (alfa respuesta)
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 AMARILLO
+
 C- ¿Qué color de fondo tiene su página en el MASTER?
 VERDE
+
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 ALFA
+
 E- ¿Algún integrante tuvo problemas al hacer el push?
+<<<<<<< HEAD
 >>>>>>> f2f8850 (respuesta alfa)
+=======
+BETA solo tuvo problemas
+>>>>>>> f6f6935 (alfa respuesta)
 
 F- ¿Qué problemas surgieron?
 Hubo conflictos entre los push y se borraron los agregados
