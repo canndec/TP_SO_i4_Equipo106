@@ -3,15 +3,31 @@ Matias Pastrana(BETA)
 Candela Corral(GAMMA)
 
 A- ¿Qué color de fondo tiene su página en el TESTING ?
-B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
-C- ¿Qué color de fondo tiene su página en el MASTER?
-D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+AZUl
 
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+AMARILLO
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+VERDE
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+ALFA
 
 E- ¿Algún integrante tuvo problemas al hacer el push?
+BETA solo tuvo problemas
+
 F- ¿Qué problemas surgieron?
+Hubo conflictos entre los push y se borraron los agregados
+
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
+Fucionar los conflictos, a la hora de solucionar los conflictos borro los 2 push
+Alfa utilizo el git rebase --continue acepta la solucion de conflictos y hacer push
+
 H- ¿Qué sucede si cada uno utiliza el push -f?
+Fuerza el push y sobreescribe
+
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+hacer un merge desde la rama DESARROLLO de TESTING
