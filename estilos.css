@@ -2,7 +2,11 @@
     margin:100px;
     }
     body {
+<<<<<<< HEAD
     background:skyblue;
     <h2>Nombre Apellido</h2>
+=======
+    background: yellow;
+>>>>>>> b3dbb776c78971023a3f6444c904c7c4be55b73f
     }
     
